@@ -1,4 +1,4 @@
-###Bem vindo ao meu perfil!: blue_heart
+###Bem vindo ao meu perfil💙
 
 Olá meu nome é *Sofia Gabriela*, sou uma esudante alura. Estou me desenvolvendo na linguagem javascript, utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.
 
