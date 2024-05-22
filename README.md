@@ -6,6 +6,6 @@ Sou uma esudante alura. Estou me desenvolvendo na linguagem javascript, utilizo 
 Você pode entrar em contato comigo pelo meu email📬,
 sofiagabriela.net@gmail.com 
 
-Meu instagram é _sofis.g
+Meu instagram é @_sofis.g
 ![image](https://github.com/soso-fria/reposit-rio-1/assets/170028924/2aa8e183-a651-4eaf-8570-8fa20aaadf18)
 
