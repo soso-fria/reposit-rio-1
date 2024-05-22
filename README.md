@@ -1,7 +1,10 @@
 Bem vindo ao meu perfil💙
 
 Olá meu nome é *Sofia Gabriela*
-Sou uma esudante alura. Estou me desenvolvendo na linguagem javascript, utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.
+
+--Sou uma esudante alura. 
+
+-Estou me desenvolvendo na linguagem javascript, utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.
 
 Você pode entrar em contato comigo pelo meu email📬,
 sofiagabriela.net@gmail.com 
